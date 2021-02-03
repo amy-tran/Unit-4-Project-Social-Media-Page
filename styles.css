@@ -1,0 +1,41 @@
+img {
+    height: 200px;
+    width: 250px;
+}
+
+.navigationbar {
+    display: flex;
+    justify-content: space-around;
+    border: 10px double green;
+    background-color: #b4e39d;
+    margin: 40px;
+    padding: 5px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.speech {
+    display: flex;
+    justify-content: center;
+    background-color: #b4e39d;
+}
+
+.books {
+    background-color: lightblue;
+}
+
+.media {
+    background-color: lightblue;
+}
+
+.bio {
+    background-color: #f5f29f;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
